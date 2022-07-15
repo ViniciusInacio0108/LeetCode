@@ -35,4 +35,4 @@ Only one valid answer exists.
 
 ## Meus resultados:
 
-![memoria](./imagens/memoria.png)
+![memoria](./Imagens/memoria.png)
