@@ -36,3 +36,5 @@ Only one valid answer exists.
 ## Meus resultados:
 
 ![memoria](./Imagens/memoria.png)
+
+![runtime](./Imagens/runtime.png)
