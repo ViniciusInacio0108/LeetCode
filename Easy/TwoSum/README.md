@@ -35,6 +35,6 @@ Only one valid answer exists.
 
 ## Resultados: 
 
-![twoSumResults](./Imagens/runtime.jpeg)
-![twoSumResults](./Imagens/memoria.jpeg)
+![twoSumResults](./Imagens/runtime.png)
+![twoSumResults](./Imagens/memoria.png)
 
